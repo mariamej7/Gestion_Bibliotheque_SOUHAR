@@ -1,0 +1,126 @@
+[
+  {
+    "ID": 1,
+    "nom": "Mariam",
+    "livres_empruntes": [
+      "978-0-14-044926-6"
+    ]
+  },
+  {
+    "ID": 2,
+    "nom": "Manar",
+    "livres_empruntes": []
+  },
+  {
+    "ID": 3,
+    "nom": "Abdelghani",
+    "livres_empruntes": [
+      "978-2-07-036053-6",
+      "978-2-266-11156-1"
+    ]
+  },
+  {
+    "ID": 4,
+    "nom": "Tasnim",
+    "livres_empruntes": []
+  },
+  {
+    "ID": 5,
+    "nom": "Youssef",
+    "livres_empruntes": []
+  },
+  {
+    "ID": 6,
+    "nom": "Amine",
+    "livres_empruntes": []
+  },
+  {
+    "ID": 7,
+    "nom": "Nour",
+    "livres_empruntes": [
+      "978-2-253-00514-4"
+    ]
+  },
+  {
+    "ID": 8,
+    "nom": "Fatiha",
+    "livres_empruntes": []
+  },
+  {
+    "ID": 9,
+    "nom": "Tariq",
+    "livres_empruntes": []
+  },
+  {
+    "ID": 10,
+    "nom": "Amina",
+    "livres_empruntes": []
+  },
+  {
+    "ID": 11,
+    "nom": "Omar",
+    "livres_empruntes": []
+  },
+  {
+    "ID": 12,
+    "nom": "Rania",
+    "livres_empruntes": []
+  },
+  {
+    "ID": 13,
+    "nom": "Zakaria",
+    "livres_empruntes": [
+      "978-2-07-036822-8"
+    ]
+  },
+  {
+    "ID": 14,
+    "nom": "Lina",
+    "livres_empruntes": []
+  },
+  {
+    "ID": 15,
+    "nom": "Walid",
+    "livres_empruntes": []
+  },
+  {
+    "ID": 16,
+    "nom": "Aya",
+    "livres_empruntes": []
+  },
+  {
+    "ID": 17,
+    "nom": "Rachid",
+    "livres_empruntes": []
+  },
+  {
+    "ID": 18,
+    "nom": "Salma",
+    "livres_empruntes": []
+  },
+  {
+    "ID": 19,
+    "nom": "Hicham",
+    "livres_empruntes": []
+  },
+  {
+    "ID": 20,
+    "nom": "Imane",
+    "livres_empruntes": []
+  },
+  {
+    "ID": 1254,
+    "nom": "m",
+    "livres_empruntes": []
+  },
+  {
+    "ID": 1526,
+    "nom": "mariam",
+    "livres_empruntes": []
+  },
+  {
+    "ID": 123654,
+    "nom": "mariam",
+    "livres_empruntes": []
+  }
+]

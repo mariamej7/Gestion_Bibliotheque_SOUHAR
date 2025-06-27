@@ -1,0 +1,74 @@
+[
+  {
+    "ISBN": "978-2-07-036822-8",
+    "titre": "Lady Lazarus",
+    "auteur": "Sylvia Plath",
+    "annee": 1965,
+    "genre": "Roman",
+    "disponible": true
+  },
+  {
+    "ISBN": "978-0-14-044926-6",
+    "titre": "L'Étranger",
+    "auteur": "Albert Camus",
+    "annee": 1942,
+    "genre": "Roman philosophique",
+    "disponible": false
+  },
+  {
+    "ISBN": "978-2-253-00514-4",
+    "titre": "Le Petit Prince",
+    "auteur": "Antoine de Saint-Exupéry",
+    "annee": 1943,
+    "genre": "Conte poétique",
+    "disponible": true
+  },
+  {
+    "ISBN": "978-2-07-036053-6",
+    "titre": "La Peste",
+    "auteur": "Albert Camus",
+    "annee": 1947,
+    "genre": "Roman philosophique",
+    "disponible": false
+  },
+  {
+    "ISBN": "978-2-266-11156-1",
+    "titre": "1984",
+    "auteur": "George Orwell",
+    "annee": 1949,
+    "genre": "Science-fiction",
+    "disponible": false
+  },
+  {
+    "ISBN": "978-2-07-036002-4",
+    "titre": "L'Œuvre au noir",
+    "auteur": "Marguerite Yourcenar",
+    "annee": 1968,
+    "genre": "Roman historique",
+    "disponible": false
+  },
+  {
+    "ISBN": "978-2-330-07458-7",
+    "titre": "En attendant Godot",
+    "auteur": "Samuel Beckett",
+    "annee": 1952,
+    "genre": "Théâtre",
+    "disponible": true
+  },
+  {
+    "ISBN": "978-2-226-11463-2",
+    "titre": "Le Nom de la rose",
+    "auteur": "Umberto Eco",
+    "annee": 1980,
+    "genre": "Roman historique",
+    "disponible": false
+  },
+  {
+    "ISBN": "978-2-253-08703-5",
+    "titre": "Le Livre de ma mère",
+    "auteur": "Albert Cohen",
+    "annee": 1954,
+    "genre": "Autobiographie",
+    "disponible": true
+  }
+]
